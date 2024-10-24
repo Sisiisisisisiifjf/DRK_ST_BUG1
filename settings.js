@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50948181169"
-global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "+18292128529"
+global.ownername = "🌹⃟⃢👑 ༒𝙎-Doodley🌹⃟⃢👑"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
-global.location = "America/Port-au-Prince"
+global.location = "AMERICAN DOMINICAN REPUBLIC"
 
-global.ownernumber = '50948181169'  //creator number
-global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
+global.ownernumber = '18292128529'  //creator number
+global.ownername = '𝙎-Doodley' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
@@ -18,7 +18,7 @@ global.author = '𝙎-𝙏𝞢𝞜'
 
 //console view/theme
 global.themeemoji = '🗾'
-global.wm = "𝙎-𝙏𝞢𝞜"
+global.wm = "𝙎-Doodley"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
